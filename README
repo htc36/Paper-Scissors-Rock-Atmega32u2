@@ -1,0 +1,24 @@
+Authors: Soren Subritzky (73976523) and Harry Collard (71662706)
+
+How to run the game, Rock Paper Scissors:
+
+Start by plugging in 2 funkits into the USB ports of the UC lab computer
+Run 'make program' in the /ence260-ucfk4/assignment/group223 directory
+for each funkit
+
+How to play:
+You can toggle moves of either Rock, Paper or Scissors by navigating left
+or right on the navswitch. 'P' stands for Paper, 'R' stands for Rock 
+and 'S' stands for scissors. To select your move push the navswitch in.
+The screen will then re-display your selection, ready to be confirmed.
+
+Press the navswitch in to confirm your move. Ensure that both funkits
+IR transmitters are facing each other. You should then see the result of the
+game by either a 'You win' or a 'You lose' message. 
+
+You will then be taken back to the start of the game for endless amounts of fun!
+
+If IR transmittion has failed the screen will display 'Try again', where it
+will take you back to the start of the game, to have another go.
+
+
